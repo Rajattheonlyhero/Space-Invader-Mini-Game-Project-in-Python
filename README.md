@@ -1,5 +1,5 @@
 # Space Invader Mini-Game
-Created a mini-game called __Space Inavder__ in __Python__ using __pygame__ library
+Created a mini-game called __Space Invader__ in __Python__ using __pygame__ library
 ## Resources used
 - Pygame
 - images and icons from _freepik_ & _flaticon_(included)
